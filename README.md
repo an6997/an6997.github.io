@@ -1,3 +1,5 @@
+title: Welcome to Amy's website!
+description: Feel free to bookmark this page to keep an eye on my updates.
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/an6997/an6997.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
