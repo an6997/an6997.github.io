@@ -1,5 +1,14 @@
-title: Welcome to Amy's website!
-description: Feel free to bookmark this page to keep an eye on my updates.
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Amy B Nguyen</title>
+  </head>
+  <body>
+    <div id="introduction">
+      <h1>About Me</h1>
+      <p>Hi! I'm Amy, and I am excited to learn how to code and create my first website.</p>
+  </body>
+</html>
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/an6997/an6997.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
