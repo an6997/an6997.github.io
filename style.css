@@ -2,11 +2,6 @@
 body {
   background-color: rgb(247, 245, 242);
 }
-body.home {
-  background-image: url("DSC_0187.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-}
 h1 {
   font-family: Roboto;
   color: rgb(69, 69, 69);
@@ -51,12 +46,6 @@ a.active {
   color: white;
   }
 /*nav bar ends*/
-/*home*/
-.home {
-  font-family: Roboto;
-  text-align: center;
-  vertical-align: middle;
-}
 /*about*/
 main.about {
   display: grid;
