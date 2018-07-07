@@ -5,6 +5,10 @@
 body {
   background-color: rgb(247, 245, 242);
 }
+p {
+  font-family: Roboto;
+  font-size: 16px;
+}
 
 /*nav bar start#*/
 ul {
@@ -28,16 +32,18 @@ li a {
   font-family: Roboto;
   padding: 14px 16px;
   text-decoration: none;
+  text-transform: uppercase;
 }
 li a:hover:not(.active) {
-  background-color: rgba(252, 205, 196, 0.2)
+  background-color: rgba(252, 205, 196, 0.2);
 }
 .active {
-  background-color: rgba(252, 205, 196, 0.5)
+  background-color: rgba(252, 205, 196, 0.8);
   }
 /*nav bar ends*/
 img.about {
-  border-radius: 50%
+  border-radius: 50%;
   height: 500px;
   width: 500px;
+  padding: 50px;
 }
