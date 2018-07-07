@@ -12,8 +12,11 @@ ul {
 li {
   float: left;
 }
-.navigation {
-  font-family: Roboto;
-  text-transform: capitalize;
+li a {
+  display: block;
   color: #ffffff;
+  font-family: Roboto;
+  padding: 14px 16px;
+  text-decoration: none;
+  text-transform: capitalize;
 }
