@@ -20,10 +20,12 @@ main.about {
   display: grid;
   margin: auto;
   grid-template-columns: 400px 1000px;
+  grid-template-rows: auto;
   grid-gap: 25px;
   justify-content: center;
   justify-items: center;
   align-items: center;
+  alignt-content: center;
 }
 /*nav bar start#*/
 ul {
