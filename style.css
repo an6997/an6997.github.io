@@ -28,12 +28,12 @@ ul {
 
 li {
   float: left;
-  border-right: 1px solid #ffffff;
+  border-right: 1px solid rgb(255, 255, 255);
 }
 
 li a {
   display: block;
-  color: #ffffff;
+  color: rgb(255, 255, 255);
   font-family: Roboto;
   padding: 14px 16px;
   text-decoration: none;
@@ -71,10 +71,10 @@ img.about {
 }
 /*photography start*/
 div.gallery {
-    border: 1px solid #ccc;
+    border: 1px solid rgb(204, 204, 204);
 }
 div.gallery:hover {
-    border: 1px solid #777;
+    border: 1px solid rgb(119, 119, 119);
 }
 div.gallery img {
     width: 100%;
