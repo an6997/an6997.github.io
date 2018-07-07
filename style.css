@@ -116,4 +116,10 @@ div.desc {
     display: table;
     clear: both;
 }
+.desc {
+  padding: 0;
+}
+.photo {
+  padding: 0;
+}
 /*photography end*/
