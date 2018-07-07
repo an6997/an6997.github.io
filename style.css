@@ -3,11 +3,11 @@ body {
   background-color: rgb(247, 245, 242);
 }
 h1 {
-  font-family: "Archivo Narrow";
+  font-family: Roboto;
   color: rgb(69, 69, 69);
 }
 p {
-  font-family: "Archivo Narrow";
+  font-family: Roboto;
   font-size: 20px;
   color: rgb(69, 69, 69);
   width: 1000px;
@@ -15,9 +15,9 @@ p {
 }
 main.about {
   display: grid;
-  padding-top: 150px;
+  padding-top: 50px;
   margin: auto;
-  grid-template-columns: 400px 800px;
+  grid-template-columns: 400px 600px;
   grid-template-rows: auto;
   grid-gap: 25px;
   justify-content: center;
@@ -44,7 +44,7 @@ li {
 li a {
   display: block;
   color: #ffffff;
-  font-family: "Archivo Narrow";
+  font-family: Roboto;
   padding: 14px 16px;
   text-decoration: none;
 }
