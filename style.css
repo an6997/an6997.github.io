@@ -1,13 +1,19 @@
+@font-face {
+  font-family: "Roboto";
+  src: url(<link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,700" rel="stylesheet">) format ('truetype');
+}
+
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  background-color: #ef8773;
 }
 li {
   float: left;
 }
-a {
-  display: block;
-  padding: 8px;
-  background-color: #000000;
+.navigation {
+  font-family: Roboto;
+  text-transform: capitalize;
+  color: #ffffff;
 }
