@@ -59,12 +59,9 @@ a.active {
   }
 /*nav bar ends*/
 img.about {
-  display: inline-block;
+  display: block;
   border-radius: 50%;
-  height: 500px;
-  width: 500px;
-  padding: 50px;
-  float: right;
+  height: 400px;
+  width: 400px;
   margin: auto;
-  vertical-align: top;
 }
