@@ -3,7 +3,8 @@ body {
   background-color: rgb(247, 245, 242);
 }
 body.home {
-  background-image: url("IMG_3861.jpg");
+  background-image: url("DSC_0187.jpg");
+  background-repeat: no-repeat;
 }
 h1 {
   font-family: Roboto;
@@ -25,7 +26,7 @@ main.about {
   grid-gap: 50px;
   justify-content: center;
   justify-items: center;
-  align-items: center;
+  align-items: top;
   alignt-content: center;
 }
 /*nav bar start#*/
@@ -67,5 +68,5 @@ img.about {
   margin: auto;
 }
 .grid {
-  padding: 50px;
+  padding: 0;
 }
