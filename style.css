@@ -2,7 +2,11 @@
   font-family: "Roboto";
   src: url(<link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,700" rel="stylesheet">) format ('truetype');
 }
+body {
+  background-color: rgb(249, 242, 232);
+}
 
+/*nav bar start#*/
 ul {
   list-style-type: none;
   margin: 0;
@@ -24,7 +28,6 @@ li a {
   font-family: Roboto;
   padding: 14px 16px;
   text-decoration: none;
-  text-transform: capitalize;
 }
 li a:hover:not(.active) {
   background-color: rgba(252, 205, 196, 0.2)
@@ -32,3 +35,4 @@ li a:hover:not(.active) {
 .active {
   background-color: rgba(252, 205, 196, 0.5)
   }
+/*nav bar ends*/
