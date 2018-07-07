@@ -15,7 +15,7 @@ p {
 }
 main.about {
   display: grid;
-  padding: 50px 200px;
+  padding: 50px 300px;
   margin: auto;
   grid-template-columns: 1fr 2fr;
   grid-template-rows: auto;
