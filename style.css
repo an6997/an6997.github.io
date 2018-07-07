@@ -8,7 +8,7 @@ body {
 p {
   font-family: Roboto;
   font-size: 16px;
-  padding: 10px 200px;
+  padding: 200px;
 }
 
 /*nav bar start#*/
@@ -33,7 +33,6 @@ li a {
   font-family: Roboto;
   padding: 14px 16px;
   text-decoration: none;
-  text-transform: uppercase;
 }
 li a:hover:not(.active) {
   background-color: rgba(252, 205, 196, 0.2);
