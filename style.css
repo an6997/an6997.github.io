@@ -1,16 +1,13 @@
-@font-face {
-  font-family: "Roboto";
-  src: url(<link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,700" rel="stylesheet">) format ('truetype');
-}
+
 body {
   background-color: rgb(247, 245, 242);
 }
 h1 {
-  font-family: Roboto;
+  font-family: "Archivo Narrow";
   color: rgb(69, 69, 69);
 }
 p {
-  font-family: Roboto;
+  font-family: "Archivo Narrow";
   font-size: 20px;
   color: rgb(69, 69, 69);
   width: 1000px;
@@ -18,8 +15,9 @@ p {
 }
 main.about {
   display: grid;
+  padding-top: 150px;
   margin: auto;
-  grid-template-columns: 400px 1000px;
+  grid-template-columns: 400px 800px;
   grid-template-rows: auto;
   grid-gap: 25px;
   justify-content: center;
@@ -46,7 +44,7 @@ li {
 li a {
   display: block;
   color: #ffffff;
-  font-family: Roboto;
+  font-family: "Archivo Narrow";
   padding: 14px 16px;
   text-decoration: none;
 }
