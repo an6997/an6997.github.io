@@ -3,7 +3,7 @@
   src: url(<link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,700" rel="stylesheet">) format ('truetype');
 }
 body {
-  background-color: rgb(249, 242, 232);
+  background-color: rgb(247, 245, 242);
 }
 
 /*nav bar start#*/
@@ -36,3 +36,6 @@ li a:hover:not(.active) {
   background-color: rgba(252, 205, 196, 0.5)
   }
 /*nav bar ends*/
+img .about {
+  border-radius: 50%
+}
