@@ -15,11 +15,11 @@ p {
 }
 main.about {
   display: grid;
-  padding-top: 50px;
+  padding: 50px 200px;
   margin: auto;
-  grid-template-columns: 400px 600px;
+  grid-template-columns: 1fr 2fr;
   grid-template-rows: auto;
-  grid-gap: 25px;
+  grid-gap: 50px;
   justify-content: center;
   justify-items: center;
   align-items: center;
