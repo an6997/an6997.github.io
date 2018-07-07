@@ -22,6 +22,7 @@ main.about {
   grid-gap: 50px;
   justify-content: center;
   justify-items: stretch;
+  align-items: center;
 }
 /*nav bar start#*/
 ul {
@@ -49,8 +50,9 @@ li a {
 li a:hover:not(.active) {
   background-color: rgba(252, 205, 196, 0.2);
 }
-.active {
+a.active {
   background-color: rgba(252, 205, 196, 0.8);
+  color: white;
   }
 /*nav bar ends*/
 img.about {
