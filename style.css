@@ -18,18 +18,7 @@ p {
   margin: auto;
   padding: 50px 300px;
 }
-main.about {
-  display: grid;
-  padding: 50px 300px;
-  margin: auto;
-  grid-template-columns: 1fr 2fr;
-  grid-template-rows: auto;
-  grid-gap: 50px;
-  justify-content: center;
-  justify-items: center;
-  align-items: top;
-  alignt-content: center;
-}
+
 /*nav bar start#*/
 ul {
   list-style-type: none;
@@ -44,6 +33,7 @@ ul {
 
 li {
   float: left;
+  border-right: 1px solid #ffffff;
 }
 
 li a {
@@ -61,6 +51,25 @@ a.active {
   color: white;
   }
 /*nav bar ends*/
+/*home*/
+.home {
+  font-family: Roboto;
+  text-align: center;
+  vertical-align: middle;
+}
+/*about*/
+main.about {
+  display: grid;
+  padding: 50px 300px;
+  margin: auto;
+  grid-template-columns: 1fr 2fr;
+  grid-template-rows: auto;
+  grid-gap: 50px;
+  justify-content: center;
+  justify-items: center;
+  align-items: top;
+  alignt-content: center;
+}
 img.about {
   display: block;
   border-radius: 50%;
