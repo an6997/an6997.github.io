@@ -17,7 +17,8 @@ p {
   margin: auto;
 }
 main.about {
-  diaply: grid;
+  display: grid;
+  margin: auto;
   grid-template-columns: 1fr 2fr;
   grid-gap: 50px;
   justify-content: center;
