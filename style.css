@@ -2,6 +2,9 @@
 body {
   background-color: rgb(247, 245, 242);
 }
+body.home {
+  background-image: url("IMG_3861.jpg");
+}
 h1 {
   font-family: Roboto;
   color: rgb(69, 69, 69);
@@ -10,8 +13,8 @@ p {
   font-family: Roboto;
   font-size: 20px;
   color: rgb(69, 69, 69);
-  width: 1000px;
   margin: auto;
+  padding: 50px 300px;
 }
 main.about {
   display: grid;
