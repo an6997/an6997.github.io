@@ -83,12 +83,8 @@ div.gallery img {
   }
 
   div.desc {
-      padding: 15px;
+      padding: 8px;
       text-align: left;
-  }
-
-  * {
-      box-sizing: border-box;
   }
 
   .responsive {
