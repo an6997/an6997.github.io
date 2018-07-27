@@ -86,10 +86,10 @@ div.desc {
       padding: 8px;
       text-align: left;
   }
-.desc p {
+p.desc {
   padding: 4px;
 }
-.photo p {
+p.photo {
   padding: 8px;
 }
 
