@@ -82,15 +82,18 @@ div.gallery img {
       height: auto;
   }
 
-div.desc {
-      padding: 8px;
+.desc {
+      padding: 15px;
       text-align: left;
+      font-size: 16px;
   }
-p.desc {
-  padding: 4px;
+
+.photo {
+  padding: 25px 10px;
 }
-p.photo {
-  padding: 8px;
+
+* {
+  bpx-sizing: border-box;
 }
 
 .responsive {
